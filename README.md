@@ -7,24 +7,33 @@ In this Try It Together activity, you'll be code builders! Now that you have a r
 
 ## Developer Objectives 📋
 
-**Refactor generic elements:** Replacing generic elements with semantic ones.
-**Using generative AI:** Use generative AI to refactor a codebase ethically and professionally.
-**Embrace semantic elements:** Reading the response from generative AI on the reason for the use of semantic elements.
+1. **Bold Intro:** Make Chris Doe's name stand out.
+2. **Enhanced About Me:** Add details to Chris' career journey.
+3. **Highlight Expertise:** Emphasize key roles using semantic tags.
+4. **Organize Content:** Nest sections for better structure.
+5. **Showcase Projects:** Create a "Recent Projects" section with an unordered list.
 
 ---
 
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-1. [ ] Choose which generative AI you would like to use. 
-2. [ ] Write a prompt using your prompt engineering skills that will ask the AI to refactor the HTML into semantic HTML for you. 
-3. [ ] Copy the HTML document and paste it in the generative AI after your prompt.
-4. [ ] Watch the AI work.
-5. [ ] Note the changes that AI made to your document. 
-   1. What is different? 
-   2. What stayed the same?
-   3. Did the AI give any explanations?
-6. [ ] Copy and paste the refactored code to your codespace and save it. You will use it in the next activity. 
+1. [ ] Navigate to the `index.html` file. 
+2. [ ] On line 23, make the copy `I'm Chris Doe!` bold wrapping the copy in the correct semantic HTML tag. Remember how the screen reader will read the tag.
+3. [ ] After the `I'm Chris Doe` copy, paste the following copy to make the paragraph tag more robust: `Throughout my career, I've worn multiple hats in the web development industry. As a Front-End Developer, I meticulously crafted pixel-perfect user interfaces for various clients. During my tenure as a UX Designer, I focused on creating intuitive and delightful user experiences. As a Full-Stack Engineer I built robust web applications from the ground up. Additionally, I've freelanced on diverse projects, ranging from e-commerce sites to personal blogs. My journey also includes a stint as a Production Assistant at Webflix Studios, where I contributed to video production and multimedia content creation.`
+4. [ ] Next, emphasize the following five word pairs using semantic HTML in the copy above:
+   1. [ ] Front-End Developer
+   2. [ ] UX Designer
+   3. [ ] Full-Stack Engineer
+   4. [ ] Production Assistant
+   5. [ ] Webflix Studios
+5. [ ] Next ,inside the `<main>` container with 1 `<section>` element, put one more `<section>` under the first `<section>`.
+6. [ ] Inside the second `<section>` element, put a subheader element with the copy: `Recent Projects`.
+7. [ ] Under that, put a paragraph element with the copy: `Check out some of my recent work:`
+8. [ ] Now, copy and paste the unordered list in the `About me` section under the last paragraph tag and refactor the copy in the elements as follows:
+   1. [ ] Change the first list tag from `X` to `Portfolio Website`.
+   2. [ ] Change the second list tag from `LinkedIn` to  `E-commerce Site`.
+   3. [ ] Change the third list tag from `GitHub` to `Blog Platform`.
 
 ---
 
