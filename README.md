@@ -47,4 +47,4 @@ In this Try It Together activity, you'll be code builders! Now that you have a r
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d3-semantic-html-elements-1/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d3-semantic-html-elements-2/blob/solution/index.html) (link not shown).
