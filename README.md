@@ -40,10 +40,3 @@ In this Try It Together activity, we are going to take Chris Doe's webpage a ste
 🎊 **Fantastic work! You just built a site with Semantic HTML! 💃🏻🕺🏾** 🎊
 
 ---
-
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
-
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d3-semantic-html-elements-1/tree/solution) (link not shown).
