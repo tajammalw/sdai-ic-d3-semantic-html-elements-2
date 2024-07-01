@@ -29,7 +29,7 @@ In this Try It Together activity, you'll be code builders! Now that you have a r
    4. [ ] Production Assistant
    5. [ ] Webflix Studios
       
-  Example:
+  ### Example:
   ```html
 <p>Throughout my career, I've worn multiple hats in the web development industry. As a <em>Front-End Developer</em>,</p>
 ```
